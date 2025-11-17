@@ -6,9 +6,9 @@
 </p>
 <div class="social-links">
 <!-- https://www.linkedin.com/in/rafael-maier-3ab196319?utm_source=share_via&utm_content=profil&utm_medium=memeber_ios -->
-<a href="[https://www.linkedin.com/in/rafael-maier-3ab196319?utm_source=share_via&utm_content=profil&utm_medium=memeber_ios]" target="_blank" rel="noopener noreferrer">Vist my LinkedIn profile</a>
+<a href="https://www.linkedin.com/in/rafael-maier-3ab196319?utm_source=share_via&utm_content=profil&utm_medium=memeber_ios" target="_blank" rel="noopener noreferrer">Vist my LinkedIn profile</a>
 
 <!-- https://github.com/Rmaier7/rmaier7.github.io/edit/main/README.md -->
-<a href="[https://github.com/Rmaier7/rmaier7.github.io/edit/main/README.md]" target="_blank" rel="noopener noreferrer">Check out my GitHub projects</a>
+<a href="https://github.com/Rmaier7/rmaier7.github.io/edit/main/README.md" target="_blank" rel="noopener noreferrer">Check out my GitHub projects</a>
 </div>
 </sections>
